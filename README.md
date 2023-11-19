@@ -1,1 +1,1 @@
-# silly-and-bad-parser-and-lexer-implementation-in-pythin
+# silly-and-bad-parser-and-lexer-implementation-in-python
