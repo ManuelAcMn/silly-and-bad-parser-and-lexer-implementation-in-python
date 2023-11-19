@@ -1,0 +1,7 @@
+bg set sunset.png
+bg show
+
+p say "It's getting late"
+p say "We should go"
+
+change name p paco

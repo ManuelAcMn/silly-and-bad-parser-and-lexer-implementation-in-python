@@ -1,0 +1,16 @@
+Here ill describe any built-in functions
+
+bg set [file]
+bg show
+bg hide
+
+it has some actors defined
+
+n = narrator / not relevant npc
+p = player
+
+[actor] say [text]
+
+to change the name of an actor is:
+
+change name [actor] [name]
